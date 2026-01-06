@@ -1,0 +1,12 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+solc = "0.8.25"
+build_info = true
+extra_output = ["storageLayout"]
+
+
+remappings = ["@openzeppelin/contracts-upgradeable=lib/openzeppelin-contracts-upgradeable/contracts", "@openzeppelin/contracts/=lib/openzeppelin-contracts-upgradeable/lib/openzeppelin-contracts/contracts/"]
+
+# https://bsc-testnet.infura.io/v3/e8fa0e21ca14418cb5704a7c576f8dcc
