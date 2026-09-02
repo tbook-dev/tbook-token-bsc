@@ -4,7 +4,9 @@
 
 [Mainnet deployment](https://bscscan.com/token/0xeD50CA53711Ce8788CBf922637E1C3e3c9b1C362) of TBook Token on BSC blockchain.
 
-[Wormhole NTT manager](https://bscscan.com/token/0x445488c12AC444EF749cf22588238853618ed86E).
+[Wormhole NTT manager](https://bscscan.com/address/0x7860a61aAe7b563127C38f381127b67dCc25DC45).
+
+NTT manager owner: [0x445488c12AC444EF749cf22588238853618ed86E](https://bscscan.com/address/0x445488c12AC444EF749cf22588238853618ed86E).
 
 
 ## Audit Report
